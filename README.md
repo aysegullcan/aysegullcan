@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @aysegullcan
+- 👀 I’m interested in Data Science, analysis.
+- 🌱 I’m currently learning Pyhton for Data Analysis.
+- 📫 How to reach me: My email adress: aysegulllcan@gmail.com / linkedin: aysegulcan
+
+<!---
+aysegullcan/aysegullcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
