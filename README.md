@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aysegullcan
+- 👋 Hi, I’m @aysegullcan. I'm a Business Intelligence Developer.
 - 👀 I’m interested in Data Science, analysis.
 - 🌱 I’m currently learning Pyhton for Data Analysis.
 - 📫 How to reach me: My email adress: aysegulllcan@gmail.com / linkedin: aysegulcan
